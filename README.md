@@ -1,1 +1,3 @@
-# Smart-library-Request-Workflow-in-Servicenow
+# Smart-library-Request-Workflow-in-Servicenow 
+The Smart Library Request Workflow is a ServiceNow-based solution designed to automate and streamline the process of requesting, approving, and managing library resources such as books, journals, and digital materials. The system improves efficiency by replacing manual request handling with an intelligent workflow that manages request submission, approval routing, inventory verification, and user notifications.
+This project demonstrates how ServiceNow workflows, catalogs, and automation tools can be used to build a structured service management solution for educational institutions and libraries.
